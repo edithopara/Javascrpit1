@@ -1,0 +1,19 @@
+Outside the browser, javascript runs on node.
+
+javascript can build full blown web page, build mobile apps,
+build real time networking applications, vedio streams and build vedio games
+
+ECMAscript was released in 1997
+
+To log to console; open up chrome, right click on an empty area, go to inspect,
+this opens up to developer tools then select the console tab.
+
+Tech skills that use javascript are; frontend and backend developer, fullstack developer
+web designer, web application developer, UI/UX designer, javascript developer
+
+statically typed programming language do type checking at compile time e.g java, C,
+C++ while dynamically typed programming language do type checking at run time e.g 
+python, javascript, PHP, ruby, perl
+
+Null is an intentional absence of value while undefined is when there is
+ no value assigned to a variable
